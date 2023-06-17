@@ -1,0 +1,2 @@
+﻿HelloWorldGenerated.HelloWorld.SayHello();
+
